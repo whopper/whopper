@@ -10,5 +10,5 @@ I live in Portland, Oregon 🌲 &nbsp;and in my free time I like cycling 🚲, h
 - 💻 My favorite language is Ruby 💎
 - 🏫 I want to learn Rust!
 - 👷 I've worked at Puppet Labs, Acquia, and GitHub.
-- 📖 I'm currently reading [Bulding Git](https://shop.jcoglan.com/building-git/) by James Coglan.
+- 📖 I'm currently reading [Building Git](https://shop.jcoglan.com/building-git/) by James Coglan.
 - 🎮 I'm currently playing [Xcom 2](https://xcom.com/) 👽 and [MLB The Show '21](https://theshow.com/?emcid=se-pi-271200&ds_rl=1293012&gclid=CjwKCAjwj6SEBhAOEiwAvFRuKGrNLwlhsrvknDcalYYEgUxZMzvJHJ1fQXlbyzRKnn0St2JSgfcsnxoCvKEQAvD_BwE&gclsrc=aw.ds) ⚾ (among many others 😅).
