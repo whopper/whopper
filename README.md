@@ -11,4 +11,4 @@ I live in Portland, Oregon 🌲 &nbsp;and in my free time I like cycling 🚲, h
 - 🏫 I want to learn Rust!
 - 👷 I've worked at Puppet Labs, Acquia, and GitHub.
 - 📖 I'm currently reading [Building Git](https://shop.jcoglan.com/building-git/) by James Coglan.
-- 🎮 I'm currently playing [Xcom 2](https://xcom.com/) 👽 (among many others 😅).
+- 🎮 I'm currently playing [Factorio](https://factorio.com/) ⚙️ (among many others 😅).
