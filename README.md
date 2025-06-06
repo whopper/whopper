@@ -8,7 +8,4 @@ I live in Portland, Oregon 🌲 &nbsp;and in my free time I like cycling 🚲, h
 
 - 😄 Pronouns: he/him/his
 - 💻 My favorite language is Ruby 💎
-- 🏫 I want to learn Rust!
 - 👷 I've worked at Puppet Labs, Acquia, and GitHub.
-- 📖 I'm currently reading [Building Git](https://shop.jcoglan.com/building-git/) by James Coglan.
-- 🎮 I'm currently playing [Factorio](https://factorio.com/) ⚙️ (among many others 😅).
