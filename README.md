@@ -5,7 +5,3 @@
 I'm a senior software engineer at GitHub :octocat: on the Developer Confidence team. We make sure the development experience is smooth for all of the engineering teams here at Github (in-house CI backend & infra, dev tools & environments, chatops, etc).
 
 I live in Portland, Oregon 🌲 &nbsp;and in my free time I like cycling 🚲, home improvement projects 🔨, video & board games 🎮 + 🎲, and travelling whenever I can 🗺️!
-
-- 😄 Pronouns: he/him/his
-- 💻 My favorite language is Ruby 💎
-- 👷 I've worked at Puppet Labs, Acquia, and GitHub.
